@@ -126,7 +126,6 @@ plt.show()
 ![image](https://github.com/user-attachments/assets/f0d5dfb0-d9f8-4c4c-9eb4-73ccd472887c)
 
 
-![image](https://github.com/user-attachments/assets/85fdc143-257d-4382-84d9-a57c49acdaae)
 
 
 ![image](https://github.com/user-attachments/assets/4300246e-8698-4589-8b0e-490ca1ebf630)
