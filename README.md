@@ -49,7 +49,7 @@ STEP 9:For ‘N ‘ iterations ,do the following:<BR>
 STEP 10:Plot the error for each iteration <BR>
 STEP 11:Print the accuracy<BR>
 # PROGRAM:
-'''python
+``` python
 
 
 import numpy as np                                                     
@@ -118,7 +118,7 @@ plt.xlabel('Epoch')
 plt.ylabel('Errors')
 plt.show()
 
-'''
+```
 
 
 
